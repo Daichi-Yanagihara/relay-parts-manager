@@ -26,6 +26,8 @@
 
 これらの課題を解決するため、機種・ユニット・用品の関連情報を一元管理できるWebシステムを開発します。
 
+## 設計ドキュメント
+[要件定義と設計一部_week9_ENGINEER CLASS](https://docs.google.com/spreadsheets/d/1r1UK1_xckCNeZ0vFPF56s1z-CuHYhuZDHNPG3CnaQbI/edit?usp=sharing)
 ## 主な機能
 
 ### ユーザー認証
